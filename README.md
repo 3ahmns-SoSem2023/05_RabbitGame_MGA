@@ -1,5 +1,5 @@
 # 05_RabbitGame_MGA
-## OS: MacOs 13.0.1 (22A400)
+## OS: MacOs 13.0.1
 ## VS: Visual Studio 2019
 ## Unity: Unity 2020.3.18f1 
 # Spielanleitung:
